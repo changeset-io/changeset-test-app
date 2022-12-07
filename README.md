@@ -2,7 +2,7 @@ A cool [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-ap
 
 ## Getting (how to)
 
-First, run the developer server:
+First, run the developer server locally:
 
 ```bash
 npm run dev or
